@@ -1,6 +1,6 @@
 ### Guide to Building the **Subscription-Based Content API**
 
-Below is a step-by-step guide for implementing the project, ensuring it covers all the features:
+Step-by-step guide for implementation.
 
 ---
 
@@ -167,5 +167,3 @@ Below is a step-by-step guide for implementing the project, ensuring it covers a
    - Profile and optimize database queries with tools like SQLAlchemy’s query inspector.
 
 ---
-
-Let me know if you need help with specific steps!
